@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <style>
+    body{
+    	background-color: {{newColor}};
+    }
+    </style>
+  </head>
+  <body>
+    <h1>{{ flatter }} {{ name }}</h1>
+    <p></p>
+  </body>
+</html>
